@@ -14,6 +14,7 @@
 @section('title', 'find.blade.php')
 
 
+
 @section('content')
 <form action="find" method="POST">
   @csrf
